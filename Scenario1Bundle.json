@@ -15,7 +15,7 @@
             ]
           }
         ],
-        "birthDate": "2000-11-2000"
+        "birthDate": "2000-10-11"
       }
     },
     {
@@ -37,15 +37,15 @@
         "patient": {
           "reference": "resource:0"
         },
-        "occurrenceDateTime": "2021-06-12",
+        "occurrenceDateTime": "2021-01-01",
         "performer": [
           {
             "actor": {
-              "display": "City College San Francisco Mass Vaccine Drive-Thro"
+              "display": "ABC General Hospital"
             }
           }
         ],
-        "lotNumber": "EW0187"
+        "lotNumber": "0000001"
       }
     },
     {
@@ -67,11 +67,11 @@
         "patient": {
           "reference": "resource:0"
         },
-        "occurrenceDateTime": "2021-07-10",
+        "occurrenceDateTime": "2021-01-29",
         "performer": [
           {
             "actor": {
-              "display": "SAFEWAY, VONS, PAVILIONS"
+              "display": "ABC General Hospital"
             }
           }
         ],
