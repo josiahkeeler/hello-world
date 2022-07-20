@@ -8,14 +8,11 @@
         "resourceType": "Patient",
         "name": [
           {
-            "family": "Anyperson",
-            "given": [
-              "John",
-              "B."
-            ]
+            "family": "Keeler",
+            "given": "Josiah"
           }
         ],
-        "birthDate": "1951-01-20"
+        "birthDate": "2000-10-11"
       }
     },
     {
