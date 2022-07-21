@@ -8,13 +8,13 @@
         "resourceType": "Patient",
         "name": [
           {
-            "family": "Lebeck",
+            "family": "Lee",
             "given": [
-              "Aidan"
+              "Christina"
             ]
           }
         ],
-        "birthDate": "2005-02-11"
+        "birthDate": "2004-07-03"
       }
     },
     {
@@ -40,7 +40,7 @@
         "performer": [
           {
             "actor": {
-              "display": "Kaiser Permanente Fremont"
+              "display": "City College San Francisco Mass Vaccine Drive-Thro"
             }
           }
         ],
@@ -63,11 +63,11 @@
         "patient": {
           "reference": "resource:0"
         },
-        "occurrenceDateTime": "2021-07-10",
+        "occurrenceDateTime": "2021-07-12",
         "performer": [
           {
             "actor": {
-              "display": "Kaiser Permanente Fremont"
+              "display": "SAFEWAY, VONS, PAVILIONS"
             }
           }
         ],
