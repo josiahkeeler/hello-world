@@ -8,13 +8,13 @@
         "resourceType": "Patient",
         "name": [
           {
-            "family": "Liu",
+            "family": "Ramirez",
             "given": [
-              "Zachary"
+              "Alberto"
             ]
           }
         ],
-        "birthDate": "2006-02-20"
+        "birthDate": "1993-07-03"
       }
     },
     {
@@ -40,7 +40,7 @@
         "performer": [
           {
             "actor": {
-              "display": "Kaiser Permanente Fremont"
+              "display": "CVS"
             }
           }
         ],
@@ -67,7 +67,7 @@
         "performer": [
           {
             "actor": {
-              "display": "Kaiser Permanente Fremont"
+              "display": "CVS"
             }
           }
         ],
