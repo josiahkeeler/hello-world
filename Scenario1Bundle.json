@@ -9,7 +9,9 @@
         "name": [
           {
             "family": "Keeler",
-            "given": "Josiah"
+            "given": [
+              "Josiah"
+            ]
           }
         ],
         "birthDate": "2000-10-11"
