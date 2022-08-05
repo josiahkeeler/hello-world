@@ -8,13 +8,13 @@
         "resourceType": "Patient",
         "name": [
           {
-            "family": "Ramirez",
+            "family": "Lebeck",
             "given": [
-              "Alberto"
+              "Olivia"
             ]
           }
         ],
-        "birthDate": "1993-07-03"
+        "birthDate": "2002-08-10"
       }
     },
     {
@@ -36,11 +36,11 @@
         "patient": {
           "reference": "resource:0"
         },
-        "occurrenceDateTime": "2021-06-09",
+        "occurrenceDateTime": "2021-06-19,
         "performer": [
           {
             "actor": {
-              "display": "CVS"
+              "display": "Kaiser Permanente Fremont"
             }
           }
         ],
@@ -67,7 +67,7 @@
         "performer": [
           {
             "actor": {
-              "display": "CVS"
+              "display": "Kaiser Permanente Fremont"
             }
           }
         ],
