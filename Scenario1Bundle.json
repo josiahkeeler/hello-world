@@ -36,7 +36,7 @@
         "patient": {
           "reference": "resource:0"
         },
-        "occurrenceDateTime": "2021-06-19,
+        "occurrenceDateTime": "2021-06-19",
         "performer": [
           {
             "actor": {
